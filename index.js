@@ -1,9 +1,9 @@
 const axios = require('axios');
 const msal = require('msal');
 
-const clientId = '<your-client-id>';
-const clientSecret = '<your-client-secret>';
-const tenantId = '<your-tenant-id>';
+const clientId = '637c02f3-df31-4892-bff1-277880a3a411';
+const clientSecret = 'dpE8Q~A-~FldQ1sdhQ4noJyx2s_FraaSQHtzXcGa';
+const tenantId = 'add67cd2-c8b2-416c-b171-b61b22be92f4';
 const resourceServerUrl = 'https://<your-web-app-1-url>/';
 
 const config = {
